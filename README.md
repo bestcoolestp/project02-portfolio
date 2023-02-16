@@ -2,6 +2,13 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
 
+
+<h2>ScreenShot:</h2>
+
+<p align="center">
+Launch the utility: <br/>
+<img src="https://github.com/bestcoolestp/project02-portfolio/blob/main/src/assets/portfolio02.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
